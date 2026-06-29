@@ -9,3 +9,7 @@ How to Download -
 Thanks for Using my app, make sure to leave a review and feedback, it matters a lot.
 Updates will be released based on user feedback.
 Consumer use only, reach the author for permission and other requests.
+
+Previews - 
+![Dashboard Preview](ForgeClicker - v1.0/assets/dashboard-preview.png)
+![Console Preview](ForgeClicker - v1.0/assets/console-preview.png)
