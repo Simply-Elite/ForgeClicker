@@ -1,0 +1,46 @@
+CHANGELOG
+
+========================================
+ForgeClicker V1.0
+Initial Release
+June 2026
+=========
+
+Overview
+
+The first public release of ForgeClicker - An actual autoclicker.
+
+Features
+
+• Win32-based mouse clicking engine.
+• Adjustable CPS (Clicks Per Second).
+• Configurable Start Delay.
+• Configurable Auto Stop timer.
+• Emergency Stop hotkey (F8).
+• Real-time Click Counter.
+• CPU Usage Monitor.
+• RAM Usage Monitor.
+• Browser-based dashboard interface.
+• Modern user interface design.
+• Custom application icon.
+• Packaged Windows executable (.exe).
+
+Technical Details
+
+• Backend built with Python and Flask.
+• Frontend built with HTML, CSS and JavaScript.
+• Mouse automation implemented using Win32 APIs.
+• Packaged using PyInstaller.
+
+Known Limitations
+
+• Windows only.
+• Left mouse button support only.
+• Dashboard runs in a web browser.
+• Designed for personal and educational use.
+
+Version Information
+
+Version: 1.0
+Release Status: Stable
+Author: Divyansh

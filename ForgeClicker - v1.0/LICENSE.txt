@@ -1,0 +1,25 @@
+AUTOCLICKER SOFTWARE LICENSE
+
+Copyright © 2026 Divyansh (CodeForge_xtreme Studios)
+
+All rights reserved.
+
+Permission is granted to use this software for personal, educational, and non-commercial purposes. For other permissions, reach the author through available platforms, or from where you obtained this software.
+
+You may not:
+
+• Modify the software and redistribute it without permission.
+• Change or move the files without proper awareness(result - Errors).
+• Claim authorship of the software.
+• Sell or sublicense the software without permission from the author.
+
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+In no event shall the author be liable for any claim, damages, or other liability arising from the use of this software.
+
+By using this software, you agree to these terms.
+
+Author: Divyansh
+Software: ForgeClicker
+Version: 1.0
+Year: 2026
