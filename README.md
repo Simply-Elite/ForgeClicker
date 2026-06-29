@@ -11,5 +11,5 @@ Updates will be released based on user feedback.
 Consumer use only, reach the author for permission and other requests.
 
 Previews - 
-![Dashboard Preview](ForgeClicker%20-%20v1.0/assets/interface-Preview.jpeg)
-![Console Preview](ForgeClicker%20-%20v1.0/assets/console-Preview.png)
+![Dashboard Preview](ForgeClicker%20-%20v1.0/assets/Interface-Preview.jpeg)
+![Console Preview](ForgeClicker%20-%20v1.0/assets/Console-Preview.png)
